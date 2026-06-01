@@ -9,4 +9,4 @@ ssh -T git@github.com
 git clone git@github.com:qxs9vrxrnr-maker/linux.git
 
 
-
+ git remote set-url origin git@github.com:qxs9vrxrnr-maker/linux.git
