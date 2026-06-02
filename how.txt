@@ -1,0 +1,24 @@
+ls 명령어 : 파일 목록을 출력하는 명령(경로 cd /linux)
+
+-a : 숨김파일 포함 모두출력
+-l : 권한, 소유권, 파일크기, 변경날짜 포함 자세한 정보 출력
+-h : -l 옵션과 함께 사용될때 파일크기를 K,M,G등 단위로 읽기 편하게 출력
+
+
+chmod (경로 "")
+vi su1.txt 수정을 하는데 안된다는걸 보이고 su 1234 들어가서 하지만 관리자는 수정이 가능하다 이유는 rwx에 대해 설명(그와 동시에 ls -alh 해주면된다)
+cd ..
+경로(cd /linux)
+alias : 단축어
+alias add="git add ."
+alias commit="git commit -m "new" "
+alias push="git push"
+cd ..
+홈 디렉토리에서
+locate .bashrc
+grep alias .bashrc
+
+cd /linux
+history
+cat -n show.txt
+grep -c "cd" show.txt
