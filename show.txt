@@ -1,0 +1,118 @@
+ls
+cd linux/
+ls
+l
+ll
+la
+ld
+lh
+cd ..
+ls -al
+cat .bash
+cat .bashrc
+ls
+su 1234
+su
+exit
+cd /boot/
+cd grub2/
+sudo cd grub2
+cd grup2
+ls
+locate grub2
+ls -a
+ls -alh
+cd grub2/
+grub2-install --version
+grub2-set-password
+grub2-mkconfig -o /boot/grub2/grup.cfg
+su
+cd linux/
+ls
+vi way.txt
+dnf 
+dnf install kako
+sudo dnf install kakotok
+cd ..
+ls
+cd linux/
+ls
+clear
+ls
+vi how.txt
+cd ..
+source .bashrc
+cd /i
+cd /lib
+cd ..
+cd linux
+cd 
+cd linux/
+ls
+add
+commit
+push
+cd ..
+ls
+sudo dnf install visualstudio
+getconf LONG_BIT
+cd linux
+touch vi.c
+gcc vi.c -o my program
+sudo dnf install glibc-langpack-ko -y
+sudo dnf install ibus-hangul -y
+sudo localectl set-locale LANG=ko_KR.utf8
+gcc vi.c -o program
+vi vi
+ls
+rm ni
+rm vi
+vi vi.c
+gcc vi.c -o program
+./program
+ls
+니
+ls
+vi vi.c
+gcc vi.c -o program
+./program
+vi vi.c
+./program
+ls
+gcc vi.c -o program
+vi vi.c
+ls
+gcc vi.c -o hello
+./hello
+ls
+sudo dnf install java-17-openjdk-devel -y
+echo "#include <iostream>
+
+int main() {
+    // std::endl이 C 언어의 \n처럼 줄바꿈을 자동으로 해줍니다!
+    std::cout << "C++도 실행 완료!" << std::endl; 
+    return 0;
+}
+" >> wh.cpp
+ls
+vi wh.cpp 
+g++ wh.cpp -o wow
+ls
+vi wh.cpp
+g++ wh.cpp -o wow
+whow
+./wow
+cd ..
+git clone https://github.com/ycs-wikim/2026_oop1
+ls
+cd 2026_oop1/
+cd ..
+mv 2026_oop1/ cplus
+cd cplus/
+ls
+git remote -v
+git push https://github.com/qxs9vrxrnr-maker/2026_oop1_forked
+ls
+git pull https://github.com/ycs-wikim/2026_oop1
+cd ..
+exit
