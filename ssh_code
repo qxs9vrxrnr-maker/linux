@@ -1,4 +1,4 @@
-#!/bin/bash
+asdfsdafadsf#!/bin/bash
 ssh-keygen -t ed25519 -C "byeonyonghan8@gmail.com"
 eval "(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
@@ -9,4 +9,4 @@ ssh -T git@github.com
 git clone git@github.com:qxs9vrxrnr-maker/linux.git
 
 
- git remote set-url origin git@github.com:qxs9vrxrnr-maker/linux.git
+ git remote set-url origin git@github.com:qxs9vrxrnr-maker/linux.git dsaf
